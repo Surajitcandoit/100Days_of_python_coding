@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "question": "What does CPU stand for?",
+    "options": ["Central Processing Unit", "Computer Personal Unit", "Central Performance Utility", "Control Program Unit"],
+    "answer": "Central Processing Unit"
+  },
+  {
+    "id": 2,
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["Earth", "Mars", "Jupiter", "Venus"],
+    "answer": "Mars"
+  },
+  {
+    "id": 3,
+    "question": "Who is the father of modern physics?",
+    "options": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Nikola Tesla"],
+    "answer": "Albert Einstein"
+  },
+  {
+    "id": 4,
+    "question": "What is the capital of France?",
+    "options": ["Berlin", "Paris", "Madrid", "Rome"],
+    "answer": "Paris"
+  },
+  {
+    "id": 5,
+    "question": "Which gas do plants absorb from the atmosphere?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+    "answer": "Carbon Dioxide"
+  },
+  {
+    "id": 6,
+    "question": "What does HTTP stand for?",
+    "options": ["HyperText Transfer Protocol", "HighText Transfer Protocol", "HyperTool Transfer Process", "Hyperlink Text Transmission"],
+    "answer": "HyperText Transfer Protocol"
+  },
+  {
+    "id": 7,
+    "question": "In programming, what does 'HTML' stand for?",
+    "options": ["HyperText Markup Language", "Hyperlink Text Management Language", "Home Tool Markup Language", "HyperText Makeup Language"],
+    "answer": "HyperText Markup Language"
+  },
+  {
+    "id": 8,
+    "question": "Which company developed the Windows operating system?",
+    "options": ["Apple", "Microsoft", "IBM", "Google"],
+    "answer": "Microsoft"
+  },
+  {
+    "id": 9,
+    "question": "What symbol is used in Python for comments?",
+    "options": ["//", "#", "/* */", "<!-- -->"],
+    "answer": "#"
+  },
+  {
+    "id": 10,
+    "question": "Which programming language is known as the 'mother of all languages'?",
+    "options": ["C", "Java", "Python", "Assembly"],
+    "answer": "C"
+  },
+  {
+    "id": 11,
+    "question": "What is the chemical symbol for gold?",
+    "options": ["Au", "Ag", "Gd", "Go"],
+    "answer": "Au"
+  },
+  {
+    "id": 12,
+    "question": "Which part of the cell contains genetic material?",
+    "options": ["Cytoplasm", "Nucleus", "Ribosome", "Mitochondria"],
+    "answer": "Nucleus"
+  },
+  {
+    "id": 13,
+    "question": "What is H2O commonly known as?",
+    "options": ["Water", "Oxygen", "Hydrogen", "Salt"],
+    "answer": "Water"
+  },
+  {
+    "id": 14,
+    "question": "Which planet is the largest in the solar system?",
+    "options": ["Saturn", "Jupiter", "Neptune", "Earth"],
+    "answer": "Jupiter"
+  },
+  {
+    "id": 15,
+    "question": "What force keeps us on the ground?",
+    "options": ["Magnetism", "Friction", "Gravity", "Inertia"],
+    "answer": "Gravity"
+  },
+  {
+    "id": 16,
+    "question": "Who was the first President of the United States?",
+    "options": ["George Washington", "Abraham Lincoln", "Thomas Jefferson", "John Adams"],
+    "answer": "George Washington"
+  },
+  {
+    "id": 17,
+    "question": "In which year did World War II end?",
+    "options": ["1940", "1945", "1939", "1950"],
+    "answer": "1945"
+  },
+  {
+    "id": 18,
+    "question": "Who was known as the Iron Lady?",
+    "options": ["Indira Gandhi", "Margaret Thatcher", "Angela Merkel", "Hillary Clinton"],
+    "answer": "Margaret Thatcher"
+  },
+  {
+    "id": 19,
+    "question": "The Great Wall of China was built to protect against which group?",
+    "options": ["Mongols", "Romans", "Huns", "Vikings"],
+    "answer": "Mongols"
+  },
+  {
+    "id": 20,
+    "question": "Who discovered America in 1492?",
+    "options": ["Christopher Columbus", "Vasco da Gama", "Ferdinand Magellan", "Marco Polo"],
+    "answer": "Christopher Columbus"
+  }
+]
